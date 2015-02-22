@@ -21,7 +21,7 @@ There are five parts:
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-## Transformation Steps:
+## Transformation Steps
 
 * Requires `plyr` library
 * Loads both x, y, and subject test and train data and merges them into a singel set
