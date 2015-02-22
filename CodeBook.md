@@ -33,6 +33,8 @@ There are five parts:
 
 ## DataSet Variables Information
 
+The tidy dataset contains obersvations with 81 variables:
+
 1. ActivityName: Activity being performed
 2. SubjectID: subject from whom data was collected
 3. Time-BodyAcc.mean.X
